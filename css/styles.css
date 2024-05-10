@@ -46,4 +46,17 @@ body {
 
   .card {
     background-color: transparent;
+    border: solid red;
+  }
+
+  .rounded-circle {
+    border: solid red;
+  }
+
+  img {
+    background: transparent;
+  }
+
+  .text-success {
+    color: gold;
   }
